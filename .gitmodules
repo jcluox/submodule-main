@@ -1,0 +1,3 @@
+[submodule "other1"]
+	path = other1
+	url = git@github.com:jcluox/submodule-other1.git
